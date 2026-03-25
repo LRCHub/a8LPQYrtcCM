@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "俺らリサイタルズ - ORERA RECITALS",
+  "base_artist": "RECITALS",
+  "createdAt": "2026-03-25T14:52:42.864525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "俺らリサイタルズ - ORERA RECITALS",
+      "artist": "RECITALS",
+      "has_synced": true,
+      "path": "select/01_俺らリサイタルズ_-_ORERA_RECITALS_RECITALS.lrc"
+    }
+  ]
+}
